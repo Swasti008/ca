@@ -1,0 +1,45 @@
+#home{
+    background-color:rgba(9, 10, 10, 0.884);
+    height: 800px;
+    width: 5000px;
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    margin-left:229px ;
+}
+#menu{
+    background-color: rgba(3, 3, 3, 0.705);
+    height: 800px;
+    width: max-content;
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    color: rgb(250, 250, 250);
+}
+#homebtn{
+    background-color: rgba(95, 89, 89, 0.747);
+    height: max-content;
+    width: 220px;
+    position:absolute;
+    right: 9px;
+} 
+.btn{
+    border-radius: 10px;
+    font-family: 'Roboto','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(255, 255, 255);
+    padding: 7px ;
+}
+#navbar{
+    margin-left:0px;
+}
+.youtuber{
+    margin: 229px;
+}
+#first{
+    display: inline;
+}
+
+
+
+
+
